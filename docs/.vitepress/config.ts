@@ -50,7 +50,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/xqsit94/laravel-coding-guidelines' }
+      { icon: 'github', link: 'https://github.com/UmarFarooqOO7/laravel-coding-guidelines' }
     ]
   }
 })

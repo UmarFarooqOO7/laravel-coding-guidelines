@@ -14,6 +14,6 @@ hero:
       link: /introduction
     - theme: alt
       text: View on GitHub
-      link: https://github.com/xqsit94/laravel-coding-guidelines
+      link: https://github.com/UmarFarooqOO7/laravel-coding-guidelines
 ---
 

@@ -25,5 +25,5 @@ To get started with the Laravel Coding Guidelines, you can:
 2. **Clone the Repository**: If you want to contribute or have offline access, clone this repository and explore the documentation locally.
 
 ```bash
-git clone https://github.com/xqsit94/laravel-coding-guidelines.git
+git clone https://github.com/UmarFarooqOO7/laravel-coding-guidelines.git
 ```
